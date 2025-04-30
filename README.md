@@ -1,4 +1,4 @@
-Projekt z studiów magisterskich Data Science, polegający na wykorzystaniu neuronowych sieci konwolucyjnych w rozpoznaniu wyrazów twarzy na zdjęciu, poprzez klasyfikację odpowiedniej etykietu.
+Projekt z studiów magisterskich Data Science, polegający na wykorzystaniu neuronowych sieci konwolucyjnych w rozpoznaniu wyrazów twarzy na zdjęciu, poprzez przypisanie odpowiedniej etykiety.
 
 Pliki:
 
