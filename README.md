@@ -1,7 +1,7 @@
-Projekt z studiów magisterskich Data Science, polegający na wykorzystaniu neuronowych sieci konwolucyjnych w rozpoznaniu wyrazów twarzy na zdjęciu, poprzez przypisanie odpowiedniej etykiety.
+Preparing data and training multiple convolutional neural networks in detection of face mood. Data Set contains 30k 48x 48 grayscale images 
 
-Pliki:
+Files:
 
 image_aug: plik z kodem augumentującym zdjęcia, w celu uzyskania równoważonego rozkładu klas.
 
-main: budowa i ewaliacja kliku sieci konwolucyjnych o różnych hiperparametrach.
+main: building and evaluating multiple CNN with different hyperparameter.
